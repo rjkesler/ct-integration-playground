@@ -1,0 +1,8 @@
+# Application Configuration
+http:
+  host: "0.0.0.0"
+  port: "8081"
+
+app:
+  name: "ct-http-playground"
+  version: "1.0.0"
